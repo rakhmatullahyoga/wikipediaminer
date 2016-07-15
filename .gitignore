@@ -1,2 +1,6 @@
 /wikipedia-miner-core/target/
 /wikipedia-miner-extract/target/
+/InaOpenNLP/build/
+/InaOpenNLP/nbproject/private/
+/wikipedia-miner-web/target/
+/wikipedia-miner-indonesian-model/target/

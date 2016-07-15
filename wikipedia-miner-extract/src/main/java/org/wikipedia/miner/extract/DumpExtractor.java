@@ -93,7 +93,7 @@ public class DumpExtractor {
 
 	public static void main(String[] args) throws Exception {
 
-		//PropertyConfigurator.configure("log4j.properties");  
+		//PropertyConfigurator.configure("log4j.properties");
 
 		DumpExtractor de = new DumpExtractor(args) ;
 		int result = de.run();

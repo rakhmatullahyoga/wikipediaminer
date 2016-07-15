@@ -32,7 +32,9 @@
 	<modules>
 		<module>wikipedia-miner-core</module>
 		<module>wikipedia-miner-extract</module>
-	 <module>../InaOpenNLP</module>
+		<module>wikipedia-miner-examples</module>
+		<module>wikipedia-miner-web</module>
+	 <module>wikipedia-miner-indonesian-model</module>
 	</modules>
 
 	<build>
