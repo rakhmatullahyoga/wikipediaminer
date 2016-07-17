@@ -126,8 +126,6 @@ public class WikipediaConfiguration {
 	}
 	
 	public void addDatabaseToCache(DatabaseType type, CachePriority priority) {
-		
-		System.out.println("Will cache " + type + " for " + priority) ;
 		databasesToCache.put(type, priority) ;
 	}
 	
